@@ -1,0 +1,25 @@
+{
+    "name": "ArewaCaps",
+    "short_name": "ArewaCaps",
+    "icons": [
+        {
+            "src": "assets/icons/icon-g-144x144.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "assets/icons/icon-g-144x144.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "assets/icons/icon-g-144x144.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#e951a7",
+    "background_color": "#70cbce",
+    "start_url": "/",
+    "display": "standalone"
+}
